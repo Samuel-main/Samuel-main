@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=221dc2&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Samuel+Henrique;I'm+16+years+old;I+from+Brasil,+RN;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+
 <div>
-    <img align="left"width=12% src="https://github.com/user-attachments/assets/825730ce-b902-4b96-b4e7-b14d4a582e2a"/>
-    <img align="right"width=20% src="https://github.com/user-attachments/assets/24e2a0d7-8878-4300-a484-1538d29392fb"/>
     <p align="center">Hello, my name is Samuel</p>
     <p align="center">Programer Study</p>
-    <p align="center">I'm User Kernel Linux, e Bash Lenguage</p>
+    
 
 <div>
 &nbsp;
@@ -20,18 +20,22 @@
 
 #### Main Stack:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+<img width="100" height="39" alt="Gemini_Generated_Image_j59eq5j59eq5j59e" src="https://github.com/user-attachments/assets/c462512d-7785-4b86-9ffb-8e9c7bf8486e" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
-![Flutter](https://img.shields.io/badge/Flutter%23-1572B6?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+<img width="104" height="28" alt="Gemini_Generated_Image_bnx949bnx949bnx9 (1)" src="https://github.com/user-attachments/assets/9011a626-4650-495a-a725-75253b1b1ad0" />
+<br>
+<img width="104" height="28" alt="js" src="https://github.com/user-attachments/assets/6160eb58-d55e-4890-9742-a1a37ee28376" />
 
 #### Studying in this moment:
+<img width="100" height="39" alt="Gemini_Generated_Image_j59eq5j59eq5j59e" src="https://github.com/user-attachments/assets/c462512d-7785-4b86-9ffb-8e9c7bf8486e" />
+<br>
+<img width="100" height="39" alt="Gemini_Generated_Image_zay65mzay65mzay6 (1)" src="https://github.com/user-attachments/assets/4672906a-0a09-40c6-a209-9aba5e9bcd55" />
 
-![Dart](https://img.shields.io/badge/Dart-1572B6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/VSCODE-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
