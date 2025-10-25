@@ -37,6 +37,8 @@
 
 <img src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
+### E-mail:
+<img src= "https://img.shields.io/badge/Gmail: sh2767216@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
 
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/VSCODE-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
