@@ -1,12 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=221dc2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=221dc2&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+My+Name+is+Samuel+Henrique;I'm+16+years+old;I+from+Brasil,+RN;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+San&size=30&duration=1300&pause=1000&color=1B59FF&width=435&lines=HELLO+WORD;MY+NAME+IS+SAMUEL+HENRIQUE;+MOBILE+DEVELOPER;IN+LEARNING" alt="Typing SVG" /></a>
 
+<p align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=Samuel-main&show_icons=true&theme=holi" 
+        alt="Samuel GitHub stats" 
+        style="width: 100%; height: auto; max-width: 600px;"
+    />
+</p>
 
-
-<div>
-    <p align="center">Hello, my name is Samuel</p>
-    <p align="center">Programer Study</p>
     
 
 <div>
@@ -16,25 +19,23 @@
 &nbsp;
 
 
+
 ## My Skills
 
-#### Main Stack:
-
-<img width="100" height="39" alt="Gemini_Generated_Image_j59eq5j59eq5j59e" src="https://github.com/user-attachments/assets/c462512d-7785-4b86-9ffb-8e9c7bf8486e" />
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-<img width="104" height="28" alt="Gemini_Generated_Image_bnx949bnx949bnx9 (1)" src="https://github.com/user-attachments/assets/9011a626-4650-495a-a725-75253b1b1ad0" />
+#### Main:
+<img src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <br>
-<img width="104" height="28" alt="js" src="https://github.com/user-attachments/assets/6160eb58-d55e-4890-9742-a1a37ee28376" />
 
-#### Studying in this moment:
-<img width="100" height="39" alt="Gemini_Generated_Image_j59eq5j59eq5j59e" src="https://github.com/user-attachments/assets/c462512d-7785-4b86-9ffb-8e9c7bf8486e" />
-<br>
-<img width="100" height="39" alt="Gemini_Generated_Image_zay65mzay65mzay6 (1)" src="https://github.com/user-attachments/assets/4672906a-0a09-40c6-a209-9aba5e9bcd55" />
 
+<img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+#### ​​Studying:
+<img src= "https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+
+<img src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 
 #### Workstation Tools:
@@ -42,5 +43,10 @@
 ![Windows](https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)&nbsp;
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: blue)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=221dc2&height=120&section=footer"/>
