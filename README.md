@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=221dc2&height=120&section=header"/>
 
-![](https://komarev.com/ghpvc/?username=Samuel-main)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+San&size=30&duration=1300&pause=1000&color=1B59FF&width=435&lines=HELLO+WORD;MY+NAME+IS+SAMUEL+HENRIQUE;+MOBILE+DEVELOPER;IN+LEARNING" alt="Typing SVG" /></a>
 
