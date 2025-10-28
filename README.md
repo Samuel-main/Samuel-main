@@ -47,10 +47,5 @@
 ![Windows](https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)&nbsp;
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuel-main/Samuel-main/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuel-main/Samuel-main/output/github-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/Samuel-main/Samuel-main/output/github-snake.svg" />
-</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=221dc2&height=120&section=footer"/>
