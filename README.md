@@ -39,13 +39,18 @@
 
 <img src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-### E-mail:
-<img src= "https://img.shields.io/badge/Gmail: sh2767216@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
-
+### contact:
+<a href="https://www.instagram.com/samuel_sh.lima/0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href = "henrique.muel73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank">
 #### Workstation Tools:
 ![VScode](https://img.shields.io/badge/VSCODE-4285F4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-4285F4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/android-20232A?style=for-the-badge&logo=android&logoColor=#458636)&nbsp;
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samuel-main/Samuel-main/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samuel-main/Samuel-main/output/github-snake.svg" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/Samuel-main/Samuel-main/output/github-snake.svg" />
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=221dc2&height=120&section=footer"/>
